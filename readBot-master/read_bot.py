@@ -71,4 +71,5 @@ async def on_message(message):
     print('---on_message_end---')
 
 
-client.run("NzQyNjU2NzUyMjM0OTIyMDI1.XzJS_w.RJHZtHKn3IilzvBh_yBM86J26sA")
+client.run("NzQyNjU2NzUyMjM0OTIyMDI1.XzJS_w.cg1cy4s4E8ra6dhPn8FWv-lzZd0
+")
